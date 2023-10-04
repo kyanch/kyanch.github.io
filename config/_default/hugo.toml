@@ -1,9 +1,9 @@
 baseURL = 'https://blog.kyanch.fun/'
 copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
-languageCode = 'en-us'
+languageCode = 'zh-cn'
 theme = 'lowkey'
-title = 'Lowkey Hugo'
-enableRobotsTXT = true
+title = "Kyanch blog"
+enableRobotsTXT = false
 
 # List Config
 summaryLength= 15
